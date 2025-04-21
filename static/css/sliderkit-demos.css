@@ -1,0 +1,541 @@
+.photosgallery-captions {
+    width: 100%;
+    height: 385px;
+    padding: 0;
+    margin-top: 0px;
+    float: left;
+    background-color: #00b5ac;
+}
+
+.photosgallery-captions .sliderkit-nav {
+    bottom: 5px;
+    left: 0;
+    width: 100%;
+    height: 44px
+}
+
+.photosgallery-captions .sliderkit-nav-clip ul li {
+    margin: 0
+}
+
+.photosgallery-captions .sliderkit-nav-clip ul li a {
+    display: block;
+    width: 17px;
+    height: 17px;
+    line-height: 18px;
+    margin: 0 1px;
+    color: #000;
+    margin-top: 15px;
+    background-image: url(../images/nav-button.png);
+    background-repeat: no-repeat;
+    background-position: -17px 0
+}
+
+.photosgallery-captions .sliderkit-nav-clip ul li.sliderkit-selected a {
+    background-position: 0 0
+}
+
+.photosgallery-captions .sliderkit-panels {
+    float: left;
+    width: 100%;
+    height: 385px;
+    overflow: hidden
+}
+
+.photosgallery-captions .sliderkit-panel {
+    width: 100%;
+    height: 385px;
+    overflow: hidden;
+    border-radius: 0;
+}
+
+.photosgallery-captions .sliderkit-panel img {
+    width: 100%
+}
+
+.box-travel-guide {
+    width: 670px;
+    height: 240px;
+    padding: 0;
+    margin-top: 0
+}
+
+.box-travel-guide .sliderkit-nav {
+    position: relative;
+    width: 530px;
+    height: 40px;
+    margin-top: -30px;
+    margin-left: 175px;
+    text-align: left
+}
+
+.box-travel-guide .sliderkit-nav-clip {
+    margin: 0
+}
+
+.box-travel-guide .sliderkit-nav-clip li {
+    height: 40px;
+    padding: 0;
+    margin: 0 15px 0 0;
+    display: inline-block
+}
+
+.box-travel-guide .sliderkit-nav-clip li {
+    float: left
+}
+
+.box-travel-guide .sliderkit-nav-clip li a {
+    font-size: 11px;
+    float: left;
+    color: #00feec;
+    text-transform: uppercase
+}
+
+.box-travel-guide .sliderkit-nav-clip li a {
+    height: 40px;
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+    text-decoration: none
+}
+
+.box-travel-guide .sliderkit-nav-clip li a img {
+    float: left;
+    margin-right: 5px
+}
+
+.box-travel-guide .sliderkit-nav-clip li a:hover {
+    color: #fff
+}
+
+.box-travel-guide .sliderkit-nav-clip li.sliderkit-selected a {
+    color: #fff;
+    background-image: url(../images/current.png);
+    background-repeat: no-repeat;
+    background-position: center bottom
+}
+
+.box-travel-guide .sliderkit-panels {
+    width: 670px;
+    height: 250px;
+    overflow: hidden;
+    padding: 0 0
+}
+
+.box-travel-guide .sliderkit-panel {
+    width: 670px;
+    height: 250px;
+    overflow: hidden;
+    padding: 0 0
+}
+
+.carousel-slide {
+    width: 294px;
+    height: 126px;
+    padding: 0;
+    margin-top: 3px
+}
+
+.carousel-slide .sliderkit-go-btn {
+    position: absolute;
+    top: 40px
+}
+
+.carousel-slide .sliderkit-go-btn span {
+    display: none
+}
+
+.carousel-slide .sliderkit-go-btn a {
+    display: block;
+    width: 15px;
+    height: 37px;
+    background: transparent
+}
+
+.carousel-slide .sliderkit-go-prev {
+    left: 10px
+}
+
+.carousel-slide .sliderkit-go-next {
+    right: 10px
+}
+
+.carousel-slide .sliderkit-go-prev a {
+    background-position: center center;
+    background-image: url(../images/previous.png);
+    background-repeat: no-repeat
+}
+
+.carousel-slide .sliderkit-go-next a {
+    background-position: center center;
+    background-image: url(../images/next.png);
+    background-repeat: no-repeat
+}
+
+.carousel-slide .sliderkit-panels {
+    width: 237px;
+    height: 122px;
+    overflow: hidden;
+    padding: 0;
+    margin-left: 28px
+}
+
+.carousel-slide .sliderkit-panel {
+    width: 229px;
+    height: 114px;
+    overflow: hidden;
+    padding: 0;
+    border: 4px solid #1dd0c4
+}
+
+.carousel-slide2 {
+    width: 240px;
+    height: 126px;
+    padding: 0;
+    margin-top: 3px;
+    margin-left: -18px
+}
+
+.carousel-slide2 .sliderkit-go-btn {
+    position: absolute;
+    top: 40px
+}
+
+.carousel-slide2 .sliderkit-go-btn span {
+    display: none
+}
+
+.carousel-slide2 .sliderkit-go-btn a {
+    display: block;
+    width: 15px;
+    height: 37px;
+    background: transparent
+}
+
+.carousel-slide2 .sliderkit-go-prev {
+    left: 10px
+}
+
+.carousel-slide2 .sliderkit-go-next {
+    right: 0
+}
+
+.carousel-slide2 .sliderkit-go-prev a {
+    background-position: center center;
+    background-image: url(../images/previous.png);
+    background-repeat: no-repeat
+}
+
+.carousel-slide2 .sliderkit-go-next a {
+    background-position: center center;
+    background-image: url(../images/next.png);
+    background-repeat: no-repeat
+}
+
+.carousel-slide2 .sliderkit-panels {
+    width: 195px;
+    height: 122px;
+    overflow: hidden;
+    padding: 0;
+    margin-left: 28px
+}
+
+.carousel-slide2 .sliderkit-panel {
+    width: 187px;
+    height: 114px;
+    overflow: hidden;
+    padding: 0;
+    border: 4px solid #f7f7f7
+}
+
+.carousel-banner {
+    width: 100%;
+    height: 235px;
+    padding: 0;
+    margin: 0 0 10px;
+    overflow: hidden
+}
+
+.carousel-banner .sliderkit-go-btn {
+    position: absolute;
+    top: 75px
+}
+
+.carousel-banner .sliderkit-go-btn span {
+    display: none
+}
+
+.carousel-banner .sliderkit-go-btn a {
+    display: block;
+    width: 25px;
+    height: 50px;
+    background: transparent
+}
+
+.carousel-banner .sliderkit-go-prev {
+    left: 0
+}
+
+.carousel-banner .sliderkit-go-next {
+    right: 0
+}
+
+.carousel-banner .sliderkit-go-prev a {
+    background-image: url(../images/nav-slide.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: 50px auto
+}
+
+.carousel-banner .sliderkit-go-next a {
+    background-image: url(../images/nav-slide.png);
+    background-repeat: no-repeat;
+    background-position: -25px 0;
+    background-size: 50px auto
+}
+
+.carousel-banner .sliderkit-panels {
+    width: 100%;
+    height: 235px;
+    overflow: hidden;
+    padding: 10px 0 0 0px
+}
+
+.carousel-banner .sliderkit-panel {
+    width: 100%;
+    height: 235px;
+    overflow: hidden;
+    padding: 0;
+    border: 0
+}
+
+.sp-banner {
+    width: 23.8%;
+    height: 235px;
+    margin: 0 0.5%;
+    float: left;
+    text-align: center
+}
+
+.sp-banner img {
+    width: 100%;
+    text-align: center
+}
+
+.tabs-imbricate {
+    width: 650px;
+    margin-top: 20px
+}
+
+.tabs-imbricate .sliderkit-nav {
+    position: relative;
+    width: 650px;
+    height: 57px;
+    text-align: left;
+    margin-bottom: 20px
+}
+
+.tabs-imbricate .sliderkit-nav-clip {
+    margin: 0
+}
+
+.tabs-imbricate .sliderkit-nav-clip ul {
+    position: relative;
+    left: 0;
+    top: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+
+.tabs-imbricate .sliderkit-nav-clip li {
+    height: 57px;
+    width: 200px;
+    padding: 0;
+    margin: 0 8px
+}
+
+.tabs-imbricate .sliderkit-nav-clip li,
+.tabs-imbricate .sliderkit-nav-clip li a {
+    float: left;
+    background-color: transparent;
+    background-image: url(../images/bg-travel-tab.png);
+    background-repeat: repeat-x;
+    background-position: 0 0;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px
+}
+
+.tabs-imbricate .sliderkit-nav-clip li a {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    width: 140px;
+    height: 47px;
+    margin: 0;
+    padding: 10px 45px 0 15px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 20px
+}
+
+.tabs-imbricate .sliderkit-nav-clip li a .icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 57px;
+    width: 60px;
+    background-repeat: no-repeat;
+    background-position: center center
+}
+
+.tabs-imbricate .sliderkit-nav-clip li.sliderkit-selected a {
+    color: #fff;
+    background-image: url(../images/bg-travel-tab2.png)
+}
+
+.tabs-imbricate .sliderkit-panels {
+    width: 650px;
+    padding: 0;
+    margin: 0;
+    border: 0
+}
+
+.tabs-imbricate .sliderkit-panel {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    border: 0
+}
+
+.photosgallery-std {
+    width: 660px;
+    height: 400px;
+    padding: 0 0 100px
+}
+
+.photosgallery-std .sliderkit-nav {
+    left: 0;
+    bottom: 0;
+    width: 640px;
+    padding: 10px;
+    background: #fff
+}
+
+.photosgallery-std .sliderkit-nav-clip ul li {
+    float: left;
+    margin: 0
+}
+
+.photosgallery-std .sliderkit-nav-clip ul li a {
+    display: block;
+    width: 120px;
+    height: 74px;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    border: 3px solid #fff
+}
+
+.photosgallery-std .sliderkit-nav-clip ul li.sliderkit-selected a {
+    padding: 0;
+    border: 3px solid #000
+}
+
+.photosgallery-std .sliderkit-nav-clip ul li a img {
+    width: 120px
+}
+
+.photosgallery-std .sliderkit-btn {
+    position: absolute;
+    top: 0
+}
+
+.photosgallery-std .sliderkit-btn span {
+    display: none
+}
+
+.photosgallery-std .sliderkit-btn-disable {
+    cursor: default
+}
+
+.photosgallery-std .sliderkit-btn-disable a:hover {
+    cursor: default
+}
+
+.photosgallery-std .sliderkit-nav .sliderkit-btn a {
+    display: block;
+    width: 10px;
+    height: 100px
+}
+
+.photosgallery-std .sliderkit-nav .sliderkit-nav-prev {
+    left: 0
+}
+
+.photosgallery-std .sliderkit-nav .sliderkit-nav-next {
+    right: 0
+}
+
+.photosgallery-std .sliderkit-nav .sliderkit-nav-prev a {
+    background: transparent url("../images/previous.png") no-repeat center center
+}
+
+.photosgallery-std .sliderkit-nav .sliderkit-nav-next a {
+    background: transparent url("../images/next.png") no-repeat center center
+}
+
+.photosgallery-std .sliderkit-go-btn {
+    position: absolute;
+    top: 0;
+    z-index: 10;
+    width: 50px;
+    height: 400px
+}
+
+.photosgallery-std .sliderkit-go-prev {
+    left: 0
+}
+
+.photosgallery-std .sliderkit-go-next {
+    right: 0
+}
+
+.photosgallery-std .sliderkit-go-btn a {
+    display: block;
+    width: 30px;
+    height: 400px;
+    opacity: .6;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center center
+}
+
+.photosgallery-std .sliderkit-go-prev a {
+    background-image: url("../images/slider-arrow-left.png")
+}
+
+.photosgallery-std .sliderkit-go-next a {
+    background-image: url("../images/slider-arrow-right.png")
+}
+
+.photosgallery-std .sliderkit-btn-disable a {
+    opacity: 0;
+    cursor: default
+}
+
+.photosgallery-std .sliderkit-go-btn span {
+    display: none
+}
+
+.photosgallery-std .sliderkit-panel {
+    top: 0;
+    left: 0;
+    width: 660px;
+    height: 400px
+}
+
+.photosgallery-std .sliderkit-panel img {
+    max-width: 660px
+}
